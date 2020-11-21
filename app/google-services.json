@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "262296302480",
+    "firebase_url": "https://shree-a3d6f.firebaseio.com",
+    "project_id": "shree-a3d6f",
+    "storage_bucket": "shree-a3d6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262296302480:android:67b79acbab98eb5060f915",
+        "android_client_info": {
+          "package_name": "com.DriverApp.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262296302480-5fbp46lq55ri50oq1983j81foqi8glqm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.DriverApp.app",
+            "certificate_hash": "1a1d921da54a705b4a52c8765bf9a7d653334e16"
+          }
+        },
+        {
+          "client_id": "262296302480-r6ab12rphdla5lrljf9ls41et75r7jkt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.DriverApp.app",
+            "certificate_hash": "5a78cf7f11de0be2010e5b91a754cf24eba9acba"
+          }
+        },
+        {
+          "client_id": "262296302480-19jivttrd8g4e54001v4ug5q0fuo5c0f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.DriverApp.app",
+            "certificate_hash": "3ef3e2d730043861229e459c578f758eb4c9b2d5"
+          }
+        },
+        {
+          "client_id": "262296302480-6keb6j7prds3vr95jh9m02teet7jfj38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnfcTRqWK4Dkn-OJfu8mjVoB7B3aB0RXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262296302480-6keb6j7prds3vr95jh9m02teet7jfj38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262296302480:android:a3c14e0a62c03df960f915",
+        "android_client_info": {
+          "package_name": "com.shree.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262296302480-p65cghs1nfo68s5n25uo2pnmm6dfqlvd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shree.app",
+            "certificate_hash": "b185f11ed8b8a5930a6ac512bdd536433e04483e"
+          }
+        },
+        {
+          "client_id": "262296302480-tj20v15r50bs1t504d0j2r2vh5t3snjb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shree.app",
+            "certificate_hash": "5a78cf7f11de0be2010e5b91a754cf24eba9acba"
+          }
+        },
+        {
+          "client_id": "262296302480-fk0jvm985p47c171atuea18hgsna7j76.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shree.app",
+            "certificate_hash": "3ef3e2d730043861229e459c578f758eb4c9b2d5"
+          }
+        },
+        {
+          "client_id": "262296302480-6keb6j7prds3vr95jh9m02teet7jfj38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnfcTRqWK4Dkn-OJfu8mjVoB7B3aB0RXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262296302480-6keb6j7prds3vr95jh9m02teet7jfj38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

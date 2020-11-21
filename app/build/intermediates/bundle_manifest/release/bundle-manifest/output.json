@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "com.shree.app",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "BUNDLE_MANIFEST"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 10,
+        "versionName": "2.1",
+        "outputFile": "app-release.apk",
+        "fullName": "release",
+        "baseName": "release",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "com.shree.app",
+        "split": "",
+        "minSdkVersion": "21"
+      }
+    }
+  ]
+}

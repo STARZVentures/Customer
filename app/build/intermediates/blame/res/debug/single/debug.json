@@ -1,0 +1,542 @@
+[
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_car.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\mipmap-hdpi\\ic_car.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_location_on_primary_24dp.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable\\ic_location_on_primary_24dp.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_direction.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable\\ic_direction.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_type_3.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable\\ic_type_3.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable-mdpi\\ic_menu.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_radio_filled.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable-hdpi\\ic_radio_filled.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_newlogoshree.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\mipmap-xxhdpi\\newlogoshree.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_roundbg.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable\\roundbg.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_default_user.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\mipmap-mdpi\\ic_default_user.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_newlogoshree.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\mipmap-mdpi\\newlogoshree.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_type_4.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable\\ic_type_4.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_email_black_24dp.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable\\ic_email_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_splashlogo.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable-hdpi\\splashlogo.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_radio.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable-xxhdpi\\ic_radio.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_erickshaw.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable\\ic_erickshaw.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_newlogoshree.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\mipmap-xhdpi\\newlogoshree.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_payment_content.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\layout\\add_payment_content.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_map_black_24dp.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable\\ic_map_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_direction.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable-xxhdpi\\direction.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_newblue_logo.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\mipmap-mdpi\\ic_newblue_logo.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_payment.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\layout\\activity_payment.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_splashlogo.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable-mdpi\\splashlogo.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_payout.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\layout\\item_payout.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sentiment_dissatisfied_black_24dp.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable\\ic_sentiment_dissatisfied_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_registration.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\layout\\fragment_registration.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_car.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_car.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_newlogoshree.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable\\ic_newlogoshree.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_radio_filled.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable-mdpi\\ic_radio_filled.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_splashlogo.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable-xxxhdpi\\splashlogo.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_type_1.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable\\ic_type_1.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_star_black_24dp.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable\\ic_star_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_radio.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable-hdpi\\ic_radio.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_circle_filled.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable\\ic_circle_filled.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_newlogoshree.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\mipmap-hdpi\\newlogoshree.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_phone.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable-xxhdpi\\ic_phone.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_splashlogo.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable-xhdpi\\splashlogo.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_chip.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable\\ic_chip.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_ride_review.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\layout\\dialog_ride_review.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_details.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\layout\\activity_details.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_car.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\mipmap-xhdpi\\ic_car.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_call_black_24dp.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable\\ic_call_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_direction.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable-anydpi\\direction.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_splashlogo.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable-v21\\splashlogo.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_direction.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable-v21\\direction.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_query.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\layout\\activity_query.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_circle.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable\\ic_circle.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_type_6.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable\\ic_type_6.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_newlogoshree.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\mipmap-anydpi-v26\\newlogoshree.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_check_default.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable\\ic_check_default.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_finish.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable-xxhdpi\\ic_finish.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_history_single.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\layout\\activity_history_single.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_customer_settings.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\layout\\activity_customer_settings.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_splashlogo.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable-xxhdpi\\splashlogo.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_car.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\mipmap-mdpi\\ic_car.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_newblue_logo.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\mipmap-xhdpi\\ic_newblue_logo.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_start.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable-xxhdpi\\ic_start.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_attach_money_black_24dp.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable\\ic_attach_money_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_cancel_black_24dp.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable\\ic_cancel_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_phone.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable-xhdpi\\ic_phone.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_phone.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable-hdpi\\ic_phone.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_type.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\layout\\item_type.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_newblue_logo.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_newblue_logo.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_check_circle_black_24dp.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable\\ic_check_circle_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_history.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable-hdpi\\ic_menu.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_history.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\layout\\item_history.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_default_user.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_default_user.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_splashlogo.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable-anydpi\\splashlogo.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_vpn_key_black_24dp.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable\\ic_vpn_key_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_forward_black_24dp.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable\\ic_arrow_forward_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_location_on_grey_24dp.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable\\ic_location_on_grey_24dp.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_login.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_default_user.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\mipmap-xhdpi\\ic_default_user.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_direction.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable-hdpi\\direction.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_payment.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\layout\\activity_add_payment.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_authentication.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\layout\\activity_authentication.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_newblue_logo.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\mipmap-hdpi\\ic_newblue_logo.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_radio.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable-xhdpi\\ic_radio.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_phone.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable-anydpi\\ic_phone.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_newlogoshree.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\mipmap-xxxhdpi\\newlogoshree.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_direction.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable-xhdpi\\direction.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_car.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_car.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_map_customer.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\layout\\activity_map_customer.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_card.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\layout\\dialog_card.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_launcher.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\layout\\activity_launcher.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_phone_auth.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\layout\\activity_phone_auth.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_radio_filled.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable-xxhdpi\\ic_radio_filled.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_menu.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\layout\\fragment_menu.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_direction.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable-xxxhdpi\\direction.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_up.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_costumer_content.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\layout\\activity_costumer_content.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_phone.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable-mdpi\\ic_phone.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_newblue_logo.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_newblue_logo.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_keyboard_arrow_up_black_24dp.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable\\ic_keyboard_arrow_up_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_radio_filled.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable-xhdpi\\ic_radio_filled.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_type_5.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable\\ic_type_5.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_default_user.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\mipmap-hdpi\\ic_default_user.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_visa.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable\\ic_visa.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\menu_customer_main.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\menu\\customer_main.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_maps.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_card.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\layout\\item_card.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_down.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_type_2.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable\\ic_type_2.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_radio.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable-mdpi\\ic_radio.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person_black_24dp.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable\\ic_person_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\raw_driver_notification.mp3.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\raw\\driver_notification.mp3"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_direction.png.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable-mdpi\\direction.png"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_nepal.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable\\ic_nepal.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_driver_choose_type.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\layout\\activity_driver_choose_type.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_exit_to_app_black_24dp.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable\\ic_exit_to_app_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_circle.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable\\ic_add_circle.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_credit_card_black_24dp.xml.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\drawable\\ic_credit_card_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\Shree Redesign v.1.0\\Customer\\app\\build\\intermediates\\res\\merged\\debug\\raw_style_json.flat",
+        "source": "G:\\Shree Redesign v.1.0\\Customer\\app\\src\\main\\res\\raw\\style_json"
+    }
+]

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="4">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/icon"
+            android:layout_marginTop="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:src="@mipmap/ic_newblue_logo" />
+
+        <TextView
+            android:id="@+id/titleText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/title_bottom_margin"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginTop="10dp"
+            android:text="@string/log_in" />
+
+
+        <TextView
+            android:id="@+id/detail"
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            tools:text="Firebase User ID: 123456789abc" />
+
+        <LinearLayout
+            android:id="@+id/phoneAuthFields"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:orientation="vertical"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp">
+        <EditText
+            android:id="@+id/fieldPhoneNumber"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:hint="@string/hint_phone_number"
+            android:inputType="phone"/>
+
+
+            <Button
+                android:padding="20sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@drawable/roundbg"
+                android:text="@string/start_phone_auth"
+                android:id="@+id/buttonStartVerification"
+                android:textColor="@android:color/white" />
+
+<!--            <com.google.android.gms.common.SignInButton-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:padding="20dp"-->
+<!--                android:layout_gravity="center"-->
+<!--                android:id="@+id/sign_in_button"-->
+<!--                android:layout_above="@+id/email_login"/>-->
+            
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/phoneAuthFieldsVerification"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:visibility="gone">
+
+            <EditText
+                android:id="@+id/fieldVerificationCode"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="16dp"
+                android:maxLength="6"
+                android:hint="@string/hint_verification_code"
+                android:inputType="number"/>
+
+            <LinearLayout
+                android:id="@+id/email_login"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_alignParentBottom="true">
+
+                <Button
+                    android:padding="20sp"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:background="@color/colorPrimaryDark"
+                    android:text="@string/verify_phone_auth"
+                    android:id="@+id/buttonVerifyPhone"
+                    android:textColor="@android:color/white"
+                    tools:ignore="ButtonStyle" />
+
+                <Button
+                    android:padding="20sp"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:background="@color/colorAccent"
+                    android:text="@string/resend_phone_auth"
+                    android:id="@+id/buttonResend"
+                    android:textColor="@android:color/white"
+                    tools:ignore="ButtonStyle" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+
+
+<!--    <RelativeLayout-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="0dp"-->
+<!--        android:layout_weight="1"-->
+<!--        android:background="@color/grey_300"-->
+<!--        android:gravity="center_vertical">-->
+
+<!--        <LinearLayout-->
+<!--            android:id="@+id/phoneAuthFields"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:orientation="vertical"-->
+<!--            android:paddingLeft="16dp"-->
+<!--            android:paddingRight="16dp">-->
+
+<!--            <LinearLayout-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:orientation="horizontal"-->
+<!--                android:weightSum="2.0">-->
+
+<!--                <EditText-->
+<!--                    android:id="@+id/fieldPhoneNumber"-->
+<!--                    android:layout_width="0dp"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:hint="@string/hint_phone_number"-->
+<!--                    android:layout_weight="1.0"-->
+<!--                    android:inputType="phone"/>-->
+
+<!--                <EditText-->
+<!--                    android:id="@+id/fieldVerificationCode"-->
+<!--                    android:layout_width="0dp"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:hint="@string/hint_verification_code"-->
+<!--                    android:layout_weight="1.0"-->
+<!--                    android:inputType="number"/>-->
+
+<!--            </LinearLayout>-->
+
+<!--            <LinearLayout-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:orientation="horizontal"-->
+<!--                android:weightSum="3.0">-->
+
+<!--                <Button-->
+<!--                    android:id="@+id/buttonStartVerification"-->
+<!--                    android:layout_marginStart="@dimen/button_horizontal_margin"-->
+<!--                    android:layout_marginEnd="@dimen/button_horizontal_margin"-->
+<!--                    android:layout_width="0dp"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_weight="1.0"-->
+<!--                    android:text="@string/start_phone_auth"/>-->
+
+<!--                <Button-->
+<!--                    android:id="@+id/buttonVerifyPhone"-->
+<!--                    android:layout_marginStart="@dimen/button_horizontal_margin"-->
+<!--                    android:layout_marginEnd="@dimen/button_horizontal_margin"-->
+<!--                    android:layout_width="0dp"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_weight="1.0"-->
+<!--                    android:text="@string/verify_phone_auth"/>-->
+
+<!--                <Button-->
+<!--                    android:id="@+id/buttonResend"-->
+<!--                    android:layout_marginStart="@dimen/button_horizontal_margin"-->
+<!--                    android:layout_marginEnd="@dimen/button_horizontal_margin"-->
+<!--                    android:layout_width="0dp"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_weight="1.0"-->
+<!--                    android:text="@string/resend_phone_auth"/>-->
+<!--            </LinearLayout>-->
+
+<!--        </LinearLayout>-->
+
+
+<!--    </RelativeLayout>-->
+
+</LinearLayout>

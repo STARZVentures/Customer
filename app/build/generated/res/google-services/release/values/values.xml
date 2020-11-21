@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">262296302480-6keb6j7prds3vr95jh9m02teet7jfj38.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://shree-a3d6f.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">262296302480</string>
+    <string name="google_api_key" translatable="false">AIzaSyBnfcTRqWK4Dkn-OJfu8mjVoB7B3aB0RXY</string>
+    <string name="google_app_id" translatable="false">1:262296302480:android:a3c14e0a62c03df960f915</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBnfcTRqWK4Dkn-OJfu8mjVoB7B3aB0RXY</string>
+    <string name="google_storage_bucket" translatable="false">shree-a3d6f.appspot.com</string>
+    <string name="project_id" translatable="false">shree-a3d6f</string>
+</resources>
